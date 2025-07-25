@@ -27,4 +27,7 @@
 
 <a href="https://github.com/smugilani"><img src="https://github-readme-stats.vercel.app/api?username=smugilani&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Syed M Umar Gilani's GitHub stats" /></a>
 
+🚀  I'm currently working on [Jardin Home Health](https://ehsashomehealth.com)
+🧠  I'm always learning and currently reading the book Zero to One by Peter Thiel with Blacke Masters
+🤝  I'm open to collaborating on exciting projects as an Engineer.
 📫 Let’s connect: [LinkedIn](http://www.linkedin.com/in/smugilani) | [Email](mailto:syedumar@umich.edu)
